@@ -1,1 +1,1 @@
-Repository for R code of the case study in the paper "Model-based disease mapping using primary care registry data". 
+Small repository for the R code of the case study used in the paper "Model-based disease mapping using primary care registry data", published in Spatial and Spatio-temporal Epidemiology. DOI: https://doi.org/10.1016/j.sste.2024.100654.
